@@ -1,0 +1,176 @@
+*
+{
+    border-sizing: border-box;
+    margin:0%;
+}
+.header
+{
+    height: 80px;
+    width: 100%;
+
+}
+.logo
+{
+    height: 80px;
+    width: 10%;
+    float: left;
+}
+.logo img
+{
+    height: 80%;
+    width: 100%;
+
+}
+.name
+{
+    height: 80px;
+    width: 90%;
+    float: left;
+    text-align-center;
+    font-size: 30px;
+    line-height: 80px;
+
+}
+.nav
+{
+
+height: 40px;
+width: 100%;
+background-color: lightcoral(4,114,240);
+}
+.main
+{
+    height: 40px;
+width: 100%;
+}
+.mainlist
+{
+    list-style-type:none;
+    float: left;
+    padding: 10px 20px;
+    font-size: 20px;
+}
+.about
+{
+height: 300px;
+width: 100%;
+margin-top: 3%;
+float: left;
+}
+.profileimage
+{
+    height: 300px;
+    width: 100%;
+float: left;
+
+}
+.profileimage img
+{
+    height: 300px;
+    width:100%;
+    float: left;
+}
+.profiledesc
+{
+    height: 300px;
+    width: 60%;
+    float: left;
+     margin-left: 5%;
+    margin-right: 5%;
+margin-top: 5%;
+text-align: justify;
+
+}
+ .skills
+{
+    height: 80px;
+    width: 100%;
+   float: left;
+   margin-top: 5px;
+   font-size: 25px;
+}
+.sub
+{
+    height: 80px;
+    width: 100%;
+}
+.sublist
+{
+    list-style: none;
+    float:left;
+    padding: 10px 20px;
+
+}
+.image1
+{
+height: 200px;
+float:left;
+width: 20%;
+margin-left: 10%;
+}
+.image1 img
+{
+height: 200px;
+width: 100%;
+margin-left: 5%;
+}
+.image2
+{
+    height: 200px;
+float:left;
+width: 20%;
+margin-left: 10%;
+}
+.image2 img
+{
+    height: 200px;
+    width: 100%;
+    margin-left: 5%;
+}
+.image3
+{
+    height: 200px;
+    float:left;
+    width: 20%;
+    margin-left: 10%;
+}
+.image3 img
+{
+    height: 200px;
+    width: 100%;
+    margin-left: 5%;
+}
+.image4
+{
+    height: 200px;
+    float:left;
+    width: 20%;
+    margin-left: 10%;
+}
+.image4 img
+{
+    height: 200px;
+    width: 100%;
+    margin-left: 5%;   
+}
+.image5
+{
+    height: 200px;
+    float:left;
+    width: 20%;
+    margin-left: 10%;   
+}
+.image5 img
+{
+    height: 200px;
+width: 100%;
+margin-left: 5%; 
+}
+.footer
+{
+    height: 80px;
+    width: 100%;
+    float:left;
+    margin-top: 5%;
+    background-color: lightslategray;
+}
